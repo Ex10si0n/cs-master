@@ -1,0 +1,21 @@
+School Name,Region,Program,TOFEL,IELTS,Minimum Academic,GPA (Total 4),Tuition Fee (per year),Living Expense (per year),Duration (in years),Total Expense,Total Expense (in CNY),Misc.
+CUHK,HK,,,,,0.00,,,,0,CN¥0.00,
+Technical University of Munich,DE,,,,,0.00,,,,0,CN¥0.00,
+Technical University of Berlin,DE,,,,,0.00,,,,0,CN¥0.00,
+UCL,UK,,,,,0.00,,,,0,CN¥0.00,
+University of Edinburgh,UK,,,,,0.00,,,,0,CN¥0.00,
+NTU,SG,CS,100,6.5,83%,3.32,"SGD 17,550.00","SGD 8,000.00",1,"SGD 25,550.00","CN¥119,612.33",
+HKU,HK,CS,80,6.0 (5.5),83%,3.32,"HK$168,000.00","HK$54,000.00",1,"HK$222,000.00","CN¥180,264.00",
+PolyU,HK,CS,80,6.0,83%,3.32,"HK$100,000.00","HK$50,000.00",1.5,"HK$225,000.00","CN¥182,700.00",
+Western University,CA,CS,92 (20),6.5 (6),78%,3.12,"CA$12,656.00","CA$13,360.00",2,"CA$52,032.00","CN¥262,605.50",
+UBC,CA,CS,100 (21),7.0 (6.5),76%,3.04,"CA$9,131.00","CA$17,126.00",2,"CA$52,514.00","CN¥265,038.16",
+Monash University,AU,CS,85,6.5,75%,3.00,"A$17,000.00","A$14,880.00",2,"A$63,760.00","CN¥299,487.10",
+University of Sydney,AU,CS,85 (17),6.5 (6),75%,3.00,"A$22,000.00","A$10,520.50",2,"A$65,041.00","CN¥305,504.08",
+NUS,SG,CS,85,6.0,83%,3.32,"SGD 29,000.00","SGD 8,000.00",2,"SGD 74,000.00","CN¥346,431.00",Scholar
+University of Waterloo,CA,CS,100 (22),7.5 (S7W7),78%,3.12,"CA$21,760.00","CA$13,360.00",2,"CA$70,240.00","CN¥354,501.28",
+HKUST,HK,AI,80,6.5 (5.5),80%,3.20,"HK$60,000.00","HK$162,000.00",2,"HK$444,000.00","CN¥360,528.00",
+University of Melbourne,AU,CS,N/A,6.5,75%,3.00,"A$18,704.00","A$20,320.00",2,"A$78,048.00","CN¥366,599.26",
+University of Toronto,CA,CS,92 (22),7.0 (6.5),79%,3.16,"CA$26,104.00","CA$20,000.00",2,"CA$92,208.00","CN¥465,373.78",GPA-Calc
+NYU,US,CS,90,7.0,75%,3.00,"$24,635.00","$13,710.00",2,"$76,690.00","CN¥487,679.38",
+UC Berkerly,US,CS,90,7.0,75%,3.00,"$29,687.00","$14,142.00",2,"$87,658.00","CN¥557,425.99",
+California Institute of Technology,US,CS,100,N/A,75%,3.00,"$28,182.00","$17,731.00",2,"$91,826.00","CN¥583,930.72",
